@@ -9,3 +9,9 @@
 npm init vite-app hello-world-vite-ant-design-vue-vue3
 ~~~
 
+## ant-design-vue
+- [ant-design-vue](https://developer.aliyun.com/mirror/npm/package/ant-design-vue)
+- [GitHub ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+~~~
+npm i ant-design-vue
+~~~
